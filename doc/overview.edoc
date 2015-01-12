@@ -10,5 +10,5 @@ Excercises for people who're trying to learn Erlang.
 
 == Description ==
 This application includes several excercises that are written as Common Test suites.
-Students should fork this repo (or create a branch in it), try running <pre>$ make test</pre> on their consoles and write the appropriate code to pass the tests.
+Students should fork this repo (or create a branch in it) and perform <pre>rebar get-deps</pre>, then try running <pre>$ make test</pre> on their consoles and write the appropriate code to pass the tests.
 Excercise description and some tips are written as part of the test module documentation.
